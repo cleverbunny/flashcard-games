@@ -13,7 +13,3 @@ We welcome everyone to contribute to the Games. Please feel free to submit a Pul
 ## License
 
 "Elixir" and the Elixir logo are copyright (c) 2012 Plataformatec.
-
-Flashcard Games are released under MIT License.
-
-Check [LICENSE](LICENSE) file for more information.
