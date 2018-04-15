@@ -5,6 +5,7 @@ Games you can play with flashcards and friends
 ## Games
 
  1. [First One Out](FirstOneOut/instructions.md)
+ 1. [Flashcards Tournament](FlashcardsTournament/instructions.md)
 
 ## Contributions
 
