@@ -4,7 +4,7 @@ Games you can play with flashcards and friends
 
 ## Games
 
- 1. [First Mix Out](first-mix-out.md)
+ 1. [First One Out](FirstOneOut/instructions.md)
 
 ## Contributions
 
